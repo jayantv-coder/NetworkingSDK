@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
                         A lightweight and reusable networking SDK for iOS projects built on top of Alamofire.
                         Supports GET, POST, PUT, DELETE, Upload, Download and structured error handling.
                        DESC
-  s.homepage         = "https://github.com/yourusername/NetworkingSDK"
+  s.homepage         = "https://github.com/jayantv-coder/NetworkingSDK.git"
   s.license          = { :type => "MIT", :file => "LICENSE" }
   s.author           = { "Your Name" => "your@email.com" }
   s.source           = { :git => "https://github.com/yourusername/NetworkingSDK.git", :tag => s.version }
