@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.author           = { "jayantv-coder" => "jayant.v@samcomtechnobrains.com" }
   s.source           = { :git => "https://github.com/jayantv-coder/NetworkingSDK.git", :tag => s.version }
   s.ios.deployment_target = "12.0"
-  s.source_files     = "NetworkingSDK/*.swift"
+  s.source_files     = "NetworkingSDK/**/*.swift"
   s.dependency       "Alamofire", "~> 5.8"
   s.swift_version    = "5.0"
 end
