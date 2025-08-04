@@ -14,7 +14,7 @@ A reusable networking layer for all iOS applications using Alamofire.
 ## 🚀 Installation
 
 ```ruby
-pod 'NetworkingSDK', :git => 'https://github.com/yourusername/NetworkingSDK.git'
+pod 'NetworkingSDK'
 ```
 
 ## 🔧 Usage
@@ -50,7 +50,3 @@ NetworkManager.shared.upload(
 ## 🧪 Testing
 
 Test cases can be found under `Tests/NetworkingSDKTests.swift`.
-
-## 📄 License
-
-MIT
